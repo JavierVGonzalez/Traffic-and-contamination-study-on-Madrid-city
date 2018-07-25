@@ -4,4 +4,4 @@ This is a study on the relationship between the vehicle traffic on the city of M
 
 These are just the components used by myself on this study, they can be vastly improved, both on coding and on performance. Also, these are independant from each other.
 
-Last, this study was done as a part of the Master Thesis in La Universidad de la Rioja, Spain.
+Last, this study was done for the Master Thesis of Visual Analytics and Big Data master of La Universidad de la Rioja, Spain.
