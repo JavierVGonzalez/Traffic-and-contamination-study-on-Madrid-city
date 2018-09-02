@@ -1,0 +1,34 @@
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Release\DataCrawlerService.exe.config
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Release\DataCrawlerService.exe
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Release\DataCrawlerService.pdb
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Release\log4net.dll
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Release\Newtonsoft.Json.dll
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Release\RestSharp.dll
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Release\System.ValueTuple.dll
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Release\log4net.xml
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Release\Newtonsoft.Json.xml
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Release\System.ValueTuple.xml
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.MyNewService.resources
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.ProjectInstaller.resources
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.csproj.GenerateResource.Cache
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.exe
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.pdb
+C:\Users\Javier-PC\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\bin\Release\DataCrawlerService.exe.config
+C:\Users\Javier-PC\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.exe
+C:\Users\Javier-PC\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.pdb
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\bin\Release\DataCrawlerService.exe.config
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\bin\Release\DataCrawlerService.exe
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\bin\Release\DataCrawlerService.pdb
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\bin\Release\log4net.dll
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\bin\Release\Newtonsoft.Json.dll
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\bin\Release\RestSharp.dll
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\bin\Release\System.ValueTuple.dll
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\bin\Release\log4net.xml
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\bin\Release\Newtonsoft.Json.xml
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\bin\Release\System.ValueTuple.xml
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.MyNewService.resources
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.ProjectInstaller.resources
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.csproj.GenerateResource.Cache
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.csproj.CoreCompileInputs.cache
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.exe
+C:\Users\sulka\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.pdb

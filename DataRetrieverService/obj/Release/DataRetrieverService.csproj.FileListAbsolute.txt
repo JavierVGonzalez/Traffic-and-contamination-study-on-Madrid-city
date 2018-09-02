@@ -1,0 +1,4 @@
+C:\Users\Javier-PC\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\bin\Release\DataCrawlerService.exe.config
+C:\Users\Javier-PC\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.exe
+C:\Users\Javier-PC\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\obj\Release\DataCrawlerService.pdb
+C:\Users\Javier-PC\Dropbox\Master\TFM\DataCrawlerService\DataCrawlerService\bin\Release\DataRetrieverService.exe.config

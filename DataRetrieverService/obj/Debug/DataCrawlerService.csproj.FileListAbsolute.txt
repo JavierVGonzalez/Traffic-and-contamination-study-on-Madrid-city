@@ -1,0 +1,16 @@
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\obj\Debug\DataCrawlerService.MyNewService.resources
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\obj\Debug\DataCrawlerService.csproj.GenerateResource.Cache
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Debug\DataCrawlerService.exe
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Debug\DataCrawlerService.pdb
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\obj\Debug\DataCrawlerService.exe
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\obj\Debug\DataCrawlerService.pdb
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Debug\DataCrawlerService.exe.config
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\obj\Debug\DataCrawlerService.csprojResolveAssemblyReference.cache
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Debug\log4net.dll
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Debug\Newtonsoft.Json.dll
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Debug\RestSharp.dll
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Debug\System.ValueTuple.dll
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Debug\log4net.xml
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Debug\Newtonsoft.Json.xml
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\bin\Debug\System.ValueTuple.xml
+c:\users\javier-pc\documents\visual studio 2015\Projects\DataCrawlerService\DataCrawlerService\obj\Debug\DataCrawlerService.ProjectInstaller.resources
