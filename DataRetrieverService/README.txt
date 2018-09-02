@@ -1,3 +1,5 @@
+This a Windows Service, written in C#, whose goal is to download traffic and metheorology data from two different sources: AEMET (Agencia Estatal de Meteorología, from Spain) and datos.gob.es (an open data web from Spain). Once installed and configured, this service will download the data by itself. There are many other data catalogs that can be downloaded in the same way, but since the URLs can be different, some trivial changes to the code may be required.
+
 To install the service, use (you have to change the "..." to the location of your project):
 
 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe "c:\...\bin\Release\DataRetrieverService.exe"
